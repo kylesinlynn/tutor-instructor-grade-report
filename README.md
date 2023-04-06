@@ -1,4 +1,4 @@
-# Change User Password Plugin
+# Instructor Grade Generation Plugin
 Customizable Tutor Plugin for Open edX
 
 # Content
